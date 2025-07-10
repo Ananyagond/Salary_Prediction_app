@@ -45,13 +45,3 @@ To set up the project locally, follow these steps:
 To run the application, execute the following command:
 ```bash
 streamlit run app.py
-
-
-
-
-
-
-
-
-
-
