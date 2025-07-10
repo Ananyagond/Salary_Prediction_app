@@ -1,4 +1,4 @@
-# Salary Prediction App
+### Salary Prediction App
 
 Welcome to the Salary Prediction App! This project aims to predict employee salaries based on various features using machine learning techniques.
 
@@ -45,4 +45,13 @@ To set up the project locally, follow these steps:
 To run the application, execute the following command:
 ```bash
 streamlit run app.py
+
+
+
+
+
+
+
+
+
 
