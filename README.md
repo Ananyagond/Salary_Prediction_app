@@ -1,47 +1,34 @@
-### Salary Prediction App
+# 💼 Salary Prediction App
 
-Welcome to the Salary Prediction App! This project aims to predict employee salaries based on various features using machine learning techniques.
+A machine learning web application that predicts the salary of an individual based on features such as experience, education, and skillset. Built using *Python, **Streamlit, and **scikit-learn*.
 
-## Table of Contents
+![salary-banner](https://img.shields.io/badge/Machine%20Learning-Project-blue) ![status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Python](https://img.shields.io/badge/Python-3.10+-yellow) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Model](#model)
-- [Contributing](#contributing)
-- [License](#license)
+---
 
-### Introduction
+## 🚀 Features
 
-The Salary Prediction App is designed to help organizations estimate employee salaries based on factors such as department, country, and other relevant features. This application utilizes machine learning models to provide accurate salary predictions.
+- 🔍 Predict salary based on user input
+- 📊 Visualize training data and prediction results
+- 🧠 Built using Linear Regression
+- 🌐 Clean and responsive UI with Streamlit
 
-## Features
+---
 
-- Predicts salaries based on input features
-- User-friendly interface
-- Supports multiple departments and countries
-- Utilizes a trained machine learning model for predictions
+## 🖥 Demo
 
-## Installation
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)  
+> Coming soon: Link to deployed version
 
-To set up the project locally, follow these steps:
+---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ananyagond/Salary_Prediction_app.git
-   
-2. Navigate to the project directory:
-   ```bash
-   cd Salary_Prediction_app
+## 📁 Folder Structure
 
-
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-
-## Usage
-To run the application, execute the following command:
 ```bash
-streamlit run app.py
+Salary_Prediction_app/
+│
+├── app.py                  # Main Streamlit app
+├── model.pkl               # Trained ML model
+├── requirements.txt        # Required Python libraries
+├── README.md               # Project documentation
+└── dataset.csv             # Training dataset
