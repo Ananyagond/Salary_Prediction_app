@@ -18,7 +18,7 @@ A machine learning web application that predicts the salary of an individual bas
 ## 🖥 Demo
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)  
-> Coming soon: Link to deployed version
+[https://ananyagond-salary-prediction-app-app-j7d7xg.streamlit.app/]
 
 ---
 
